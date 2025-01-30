@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.Body{
+  background-color: blue;
+}
+
+.container{
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: lightgrey;
+  padding: 10px 10px;
+  margin: auto;
+}
+.Button{
+  border-radius: 10px;
+  background-color: lightgreen;
+  font-size: 20px;
+  border: 2px solid black;
+  color: black;
+}
+.Button:hover{
+  background-color: green;
+}
+.Output{
+  font-size: 10px;
+  text-shadow: 2px 2px 2px green;
+}
+.Subtitle{
+  font-size: 20px;
+}
+.Social{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: lightgrey;
+  padding: 10px 10px;
+  text-align: center;
+}
